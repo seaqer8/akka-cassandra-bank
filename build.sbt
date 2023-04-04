@@ -28,3 +28,4 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor-testkit-typed"   % akkaVersion     % Test,
   "org.scalatest"     %% "scalatest"                  % "3.2.9"         % Test
 )
+
